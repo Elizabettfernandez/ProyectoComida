@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #dc2f02;
+}
+
+.nav-link{
+  color: black;
+}
+
+.nav-link:hover {
+   background-color: rgb(236, 140, 140);
+   border-radius: 15px;
+   padding: 10px 15px 10px 15px;
+   color: black;
+}
+
+.navbar-brand, .navbar-brand:hover{
+  color: black;
+}
+/*.navbar-toggler{
+  background-color: bisque;
+  color: black;
+}*/
+   
+.navbar-toggler-icon{
+     color: black;
+   }
+
+   .bg-primary{
+background-color: #dc2f02; 
+ }
+
